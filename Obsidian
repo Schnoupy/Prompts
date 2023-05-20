@@ -51,7 +51,6 @@ location: [41.892770, 8.751220]
 START
 Cloze
 Cloze: **{{c1::Napoleon Bonaparte::Name}}** was a French military and political leader who rose to prominence during the **{{c2::French Revolution**::Event}}**, became Emperor of the French between **{{c3::1804 and 1815::Period}}**, and led France in the Napoleonic Wars.
-Embeded Image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/220px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg
 END
 
 <span 
