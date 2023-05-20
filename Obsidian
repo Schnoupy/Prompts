@@ -1,0 +1,64 @@
+Instructions: 
+Write the following note for Obsidian. 
+In the header: aliases are other ways to spell the given words. The location must be the place of birth if it's a person. 
+Explain a topic in a short and simple way, then add a timeline of related events.
+In the Vis-Timeline: only put one tag from the YAML header in the timeline.
+If the years are BC, then the dates must be negatives.
+Then add articles corresponding to Wikipedia pages mentioned in the previous parts and group them into categories. 
+The flashcard must follow the Twenty rules of formulating knowledge.
+Format your answer using Markdown and Latex. 
+
+Template: 
+---
+Date: 2023-03-30
+Aliases: Napoleon Bonaparte, Napoléon I, Emperor Napoleon
+Tags: Timeline, Flashcards, Person, France, French_Revolution, Napoleonic_Wars, History, Military, Emperor
+location: [41.892770, 8.751220]
+---
+
+> [!abstract]- Wikipedia
+> <iframe width="100%" height="1000" frameBorder="0" src="https://en.m.wikipedia.org/wiki/Napoleon"></iframe>
+
+> [!note]+ Summary
+> **Napoleon Bonaparte** (1769-1821) was a **French military and political leader** who rose to prominence during the **French Revolution**. Born in **Corsica**, he became Emperor of the French in **1804** and established a large European empire. A skilled military commander, Napoleon's ambition and conquests led to the **Napoleonic Wars**, which lasted from **1803** to **1815**. Although initially successful, his empire eventually crumbled, and he was **exiled to the island of Elba** in **1814**. Napoleon escaped and returned to power briefly in **1815** before being defeated at the **Battle of Waterloo** and exiled again, this time to the remote island of **Saint Helena**, where he died in **1821**.
+
+> [!Example]+ Timeline
+>  **1769** - _**Birth**_ - Born in Corsica. 
+>  **1785** - _**Military Education**_ - Graduates from École Militaire in Paris. 
+>  **1799** - _**Coup d'état**_ - Overthrows the French government. 
+>  **1804** - _**Emperor**_ - Proclaims himself Emperor Napoleon I. 
+>  **1803 → 1815** - _**Napoleonic Wars**_ - Series of conflicts across Europe. 
+>  **1814** - _**First Exile**_ - Exiled to Elba.
+>   **1815** - _**Hundred Days**_ - Returns to power, defeated at Waterloo. 
+>   **1815** - _**Second Exile**_ - Exiled to Saint Helena. 
+>   **1821** - _**Death**_ - Dies on Saint Helena.
+>   
+>   ```timeline-vis
+divHeight=auto
+tags=French_Revolution
+startDate=1750,01,01
+endDate=1850,01,01
+minDate=1700,01,01
+maxDate=1900,01,01
+
+> [!INFO]+ Related Articles
+> **Military Campaigns:** [[Napoleonic Wars]], [[Battle of Waterloo]], [[Battle of Austerlitz]]
+> **Political Career:** [[First French Empire]], [[French Revolution]], [[Hundred Days]]
+> **Family:** [[Josephine de Beauharnais]], [[Marie Louise of Austria]], [[Napoleon III]]
+
+> [!question]- Flashcard
+START
+Cloze
+Cloze: **{{c1::Napoleon Bonaparte::Name}}** was a French military and political leader who rose to prominence during the **{{c2::French Revolution**::Event}}**, became Emperor of the French between **{{c3::1804 and 1815::Period}}**, and led France in the Napoleonic Wars.
+END
+
+<span 
+	  class='ob-timelines' 
+	  data-date='1769-08-15-00' 
+	  data-title='Napoleon Bonaparte' 
+	  data-type='range'
+	  data-end='1821-05-05-00'> 
+	From 1769 to 1821
+</span>
+
+Prompt: 
