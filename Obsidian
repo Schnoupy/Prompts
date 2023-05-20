@@ -53,12 +53,12 @@ Cloze: **{{c1::Napoleon Bonaparte::Name}}** was a French military and political 
 END
 
 <span 
-	  class='ob-timelines' 
-	  data-date='1769-08-15-00' 
-	  data-title='Napoleon Bonaparte' 
-	  data-type='range'
-	  data-end='1821-05-05-00'> 
-	From 1769 to 1821
+class='ob-timelines' 
+data-date='1769-08-15-00' 
+data-title='Napoleon Bonaparte' 
+data-type='range'
+data-end='1821-05-05-00'> 
+From 1769 to 1821
 </span>
 
 Prompt: 
