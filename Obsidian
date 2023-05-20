@@ -4,7 +4,7 @@ In the header: aliases are other ways to spell the given words. The location mus
 Explain a topic in a short and simple way, then add a timeline of related events.
 In the Vis-Timeline: only put one tag from the YAML header in the timeline.
 If the years are BC, then the dates must be negatives.
-Then add articles corresponding to Wikipedia pages mentioned in the previous parts and group them into categories. 
+Add articles corresponding to Wikipedia pages mentioned in the previous parts and group them into categories. 
 The flashcard must follow the Twenty rules of formulating knowledge.
 Format your answer using Markdown and Latex. 
 
