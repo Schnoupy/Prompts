@@ -23,23 +23,23 @@ location: [41.892770, 8.751220]
 > **Napoleon Bonaparte** (1769-1821) was a **French military and political leader** who rose to prominence during the **French Revolution**. Born in **Corsica**, he became Emperor of the French in **1804** and established a large European empire. A skilled military commander, Napoleon's ambition and conquests led to the **Napoleonic Wars**, which lasted from **1803** to **1815**. Although initially successful, his empire eventually crumbled, and he was **exiled to the island of Elba** in **1814**. Napoleon escaped and returned to power briefly in **1815** before being defeated at the **Battle of Waterloo** and exiled again, this time to the remote island of **Saint Helena**, where he died in **1821**.
 
 > [!Example]+ Timeline
->  **1769** - _**Birth**_ - Born in Corsica. 
->  **1785** - _**Military Education**_ - Graduates from École Militaire in Paris. 
->  **1799** - _**Coup d'état**_ - Overthrows the French government. 
->  **1804** - _**Emperor**_ - Proclaims himself Emperor Napoleon I. 
->  **1803 → 1815** - _**Napoleonic Wars**_ - Series of conflicts across Europe. 
->  **1814** - _**First Exile**_ - Exiled to Elba.
->   **1815** - _**Hundred Days**_ - Returns to power, defeated at Waterloo. 
->   **1815** - _**Second Exile**_ - Exiled to Saint Helena. 
->   **1821** - _**Death**_ - Dies on Saint Helena.
+> **1769** - _**Birth**_ - Born in Corsica. 
+> **1785** - _**Military Education**_ - Graduates from École Militaire in Paris. 
+> **1799** - _**Coup d'état**_ - Overthrows the French government. 
+> **1804** - _**Emperor**_ - Proclaims himself Emperor Napoleon I. 
+> **1803 → 1815** - _**Napoleonic Wars**_ - Series of conflicts across Europe. 
+> **1814** - _**First Exile**_ - Exiled to Elba.
+> **1815** - _**Hundred Days**_ - Returns to power, defeated at Waterloo. 
+> **1815** - _**Second Exile**_ - Exiled to Saint Helena. 
+> **1821** - _**Death**_ - Dies on Saint Helena.
 >   
->   ```timeline-vis
-divHeight=auto
-tags=French_Revolution
-startDate=1750,01,01
-endDate=1850,01,01
-minDate=1700,01,01
-maxDate=1900,01,01
+> ```timeline-vis
+> divHeight=auto
+> tags=French_Revolution
+> startDate=1750,01,01
+> endDate=1850,01,01
+> minDate=1700,01,01
+> maxDate=1900,01,01
 
 > [!INFO]+ Related Articles
 > **Military Campaigns:** [[Napoleonic Wars]], [[Battle of Waterloo]], [[Battle of Austerlitz]]
