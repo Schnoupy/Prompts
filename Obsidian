@@ -2,15 +2,15 @@ Instructions:
 Write the following note for Obsidian. 
 In the header: aliases are other ways to spell the given words. The location must be the place of birth if it's a person. 
 Explain a topic in a short and simple way, then add a timeline of related events.
-In the Vis-Timeline: only put one tag from the YAML header in the timeline.
+In the Vis-Timeline: only put the most most relevant tag from the YAML header.
 If the years are BC, then the dates must be negatives.
 Add articles corresponding to Wikipedia pages mentioned in the previous parts and group them into categories. 
-The flashcard must follow the Twenty rules of formulating knowledge.
+The flashcard must be short and follow the Twenty rules of formulating knowledge.
 Format your answer using Markdown and Latex. 
 
 Template: 
 ---
-Date: 2023-03-30
+Date: [Today's Date]
 Aliases: Napoleon Bonaparte, Napoléon I, Emperor Napoleon
 Tags: Timeline, Flashcards, Person, France, French_Revolution, Napoleonic_Wars, History, Military, Emperor
 location: [41.892770, 8.751220]
