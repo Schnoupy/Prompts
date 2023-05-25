@@ -1,0 +1,40 @@
+Instructions : 
+Génère le plan pour un Kahoot pour expliquer de façon pédagogique la conception d'un sujet philosophique selon la requête que je vais te donner. 
+
+Le Kahoot doit comporter
+Une partie Cours composée de 5 diapositives.
+Un exemple permettant d'illustrer le sujet
+Une partie Réflexion avec 2 débats contemporains permettant de s'interroger sur le sujet.
+Une partie Questions avec 5 questions portant sur la partie cours (4 questions QCM et 1 question Vrai/Faux). 
+
+Modèle : 
+
+# Titre
+* Diapositive (Grand titre) - L'épicurisme - La nature
+
+# Cours
+* Diapositive (Grand titre) - Cours
+* Diapositive (Liste à puces) - Présentation d’Épicure et de Lucrèce 
+* Diapositive (Liste à puces) - L’épicurisme
+* Diapositive (Liste à puces) - L'atomisme
+* Diapositive (Liste à puces) - Le concept de *clinamen*
+* Diapositive (Liste à puces) - Le **Tetrapharmakos**
+
+# Exemple (
+* Diapositive (Grand titre) - Exemple
+* Diapositive (Liste à puces) - Le Roi Lion (1994)
+
+# Réflexion
+* Diapositive (Grand titre) - Réflexion
+* Question ouverte - Comment concilier la recherche du plaisir simple et notre société moderne ?
+* Question ouverte  : Comment concilier la préservation de l'environnement avec la recherche du plaisir ?
+
+# Questions (5 questions)
+* Diapositive (Grand titre) - Questions
+* Question 01
+* Question 02
+* Question 03
+* Question 04
+* Question 05
+
+Requête : 
