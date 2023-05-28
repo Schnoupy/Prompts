@@ -5,14 +5,14 @@ Explain a topic in a short and simple way, then add a timeline of related events
 In the Vis-Timeline: only put the most most relevant tag from the YAML header.
 If the years are BC, then the dates must be negatives.
 Add articles corresponding to Wikipedia pages mentioned in the previous parts and group them into categories. 
-The flashcard must be short and follow the Twenty rules of formulating knowledge.
+The flashcard must be short.
 Format your answer using Markdown and Latex. 
 
 Template: 
 ---
 Date: [Today's Date]
 Aliases: Napoleon Bonaparte, Napoléon I, Emperor Napoleon
-Tags: Timeline, Flashcards, Person, France, French_Revolution, Napoleonic_Wars, History, Military, Emperor
+Tags: Timeline, Flashcards, Person, Europe, France, French_Revolution, Napoleonic_Wars, History, Military, Emperor
 location: [41.892770, 8.751220]
 ---
 
@@ -35,7 +35,7 @@ location: [41.892770, 8.751220]
 >   
 > ```timeline-vis
 > divHeight=auto
-> tags=French_Revolution
+> tags=France
 > startDate=1750,01,01
 > endDate=1850,01,01
 > minDate=1700,01,01
@@ -50,7 +50,7 @@ location: [41.892770, 8.751220]
 > [!question]- Flashcard
 START
 Cloze
-Cloze: **{{c1::Napoleon Bonaparte::Name}}** was a French military and political leader who rose to prominence during the **{{c2::French Revolution**::Event}}**, became Emperor of the French between **{{c3::1804 and 1815::Period}}**, and led France in the Napoleonic Wars.
+Cloze: **{{c1::Napoleon Bonaparte::Name}}** was a French military and political leader who rose to prominence during the **{{c2::French Revolution**::Event}}** and became Emperor of the French between **{{c3::1804 and 1815::Period}}**.
 END
 
 <span 
