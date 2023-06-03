@@ -4,7 +4,7 @@ In the header: aliases are other ways to spell the given words. The location mus
 Explain a topic in a short and simple way, then add a timeline of related events.
 In the Vis-Timeline: only put the most relevant tag from the YAML header.
 If the years are BC, then the dates must be negatives.
-Add articles corresponding to Wikipedia pages mentioned in the previous parts and group them into categories. 
+Add directly related articles corresponding to Wikipedia articles.
 The flashcard must be short.
 Format your answer using Markdown and Latex. 
 
@@ -43,9 +43,7 @@ location: [41.892770, 8.751220]
 > ```
 
 > [!INFO]+ Related Articles
-> **Military Campaigns:** [[Napoleonic Wars]], [[Battle of Waterloo]], [[Battle of Austerlitz]]
-> **Political Career:** [[First French Empire]], [[French Revolution]], [[Hundred Days]]
-> **Family:** [[Josephine de Beauharnais]], [[Marie Louise of Austria]], [[Napoleon III]]
+> [[Napoleonic Wars]], [[Battle of Waterloo]], [[Battle of Austerlitz]], [[First French Empire]], [[French Revolution]], [[Hundred Days]], [[Josephine de Beauharnais]], [[Marie Louise of Austria]], [[French Revolutionary Wars]]
 
 > [!question]- Flashcard
 START
@@ -62,4 +60,4 @@ data-end='1821-05-05-00'>
 From 1769 to 1821
 </span>
 
-Prompt: 
+Make a new note for: 
