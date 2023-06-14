@@ -1,39 +1,46 @@
-Génère le plan pour un Kahoot pour expliquer de façon pédagogique la conception d'un sujet philosophique selon la requête que je vais te donner. 
+Génère le plan pour un Kahoot pour expliquer de façon pédagogique la conception d'un sujet philosophique selon la requête que je vais te donner. Inspire-toi du style de cours sur la Justice donnés par Michael Sandel à Harvard.
 
 Le Kahoot doit comporter
-Une partie Cours composée de 5 diapositives.
-Un exemple permettant d'illustrer le sujet (l'exemple peut être issu d'un livre, d'un film, d'une série TV ou de l'histoire).
-Une partie Réflexion avec 2 débats contemporains permettant de s'interroger sur le sujet.
-Une partie Questions avec 5 questions portant sur la partie cours (4 questions QCM et 1 question Vrai/Faux). 
 
-Modèle : 
+- Une introduction avec une référence précise et intéressante permettant d’introduire le sujet. La référence peut être une référence culturelle, un événement historique, une expérience de pensée, etc.
+- Une partie Réflexion avec un débat
+- Une partie Cours composée de 5 diapositives pour expliquer la conception du sujet selon le philosophe demandé.
+- Une partie Questions avec 5 questions portant exclusivement sur la partie cours.
 
-# Titre
-* Diapositive (Grand titre) - L'épicurisme - La nature
+Modèle :
 
-# Cours
-* Diapositive (Grand titre) - Cours
-* Diapositive (Liste à puces) - Présentation d’Épicure et de Lucrèce 
-* Diapositive (Liste à puces) - L’épicurisme
-* Diapositive (Liste à puces) - L'atomisme
-* Diapositive (Liste à puces) - Le concept de *clinamen*
-* Diapositive (Liste à puces) - Le **Tetrapharmakos**
+### Titre
 
-# Exemple (
-* Diapositive (Grand titre) - Exemple
-* Diapositive (Liste à puces) - Le Roi Lion (1994)
+- Diapositive (Grand titre) - John-Stuart Mill - La justice
 
-# Réflexion
-* Diapositive (Grand titre) - Réflexion
-* Question ouverte - Comment concilier la recherche du plaisir simple et notre société moderne ?
-* Question ouverte  : Comment concilier la préservation de l'environnement avec la recherche du plaisir ?
+### Introduction
 
-# Questions (5 questions)
-* Diapositive (Grand titre) - Questions
-* Question 01
-* Question 02
-* Question 03
-* Question 04
-* Question 05
+- Diapositive (Grand titre) - R v. Dudley and Stephens
+- Diapositive (Liste à puces) - Présentation du naufrage du yacht Mignonette
+- Diapositive (Liste à puces) - Présentation de ce qu’on fait les naufragés
+
+### Réflexion
+
+- Diapositive (Grand titre) - Réflexion
+- Question ouverte - Les naufragés ont-ils eu raison de faire ce choix ?
+
+### Cours
+
+- Diapositive (Grand titre) - Cours
+- Diapositive (Liste à puces) - Présentation de John-Stuart Mill et de l’œuvre dans laquelle il développe sa conception de la justice.
+- Diapositive (Liste à puces) - Anecdote à propos de John-Stuart Mill
+- Diapositive (Liste à puces) - La distinction entre différents types de plaisirs selon John-Stuart Mill
+- Diapositive (Liste à puces) - Mill et le principe de la plus grande félicité : Le bonheur de la majorité est-il toujours juste ?
+- Diapositive (Liste à puces) - La justice selon Mill : la protection des droits individuels et des libertés personnelles.
+- Diapositive (Liste à puces) - L’analyse du naufrage du yacht Mignonette à travers la conception de la justice selon Mill.
+
+### Questions (5 questions)
+
+- Diapositive (Grand titre) - Questions
+- Question 01 (QCM) - Laquelle de ces œuvres fut écrite par Mill ?
+- Question 02 (QCM) - Qu'est-ce que le principe de la plus grande félicité selon Mill ?
+- Question 02 (QCM) - Quelle est la conception des plaisirs selon Mill ?
+- Question 03 (QCM) - Comment Mill conçoit-il la justice en relation avec les droits individuels ?
+- Question 04 (QCM) - Comment le naufrage du yacht Mignonette est-il perçu à travers la justice de Mill ?
 
 Requête : 
